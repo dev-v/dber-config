@@ -2,7 +2,7 @@ from: demo-1.10
 
 zuul:
   routes:
-    dber-demo-service: /demo/**
+    demo-service: /demo/**
 
 
 
